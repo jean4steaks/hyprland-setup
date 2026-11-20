@@ -1,0 +1,45 @@
+# Paquets officiels Arch Linux
+# (les dépendances d'illogical-impulse sont installées par son installateur)
+
+# Applications
+discord
+firefox
+kate
+htop
+nano
+vim
+tree
+network-manager-applet
+wofi
+xprintidle
+
+# Outils réseau / sécurité / stockage
+nmap
+openvpn
+samba
+nfs-utils
+smartmontools
+
+# Android
+android-tools
+android-udev
+
+# Session graphique
+sddm
+uwsm
+bluez
+bluez-utils
+plasma-browser-integration
+zram-generator
+
+# Pilotes graphiques (Intel / AMD / Nouveau)
+intel-media-driver
+libva-intel-driver
+libvpl
+vpl-gpu-rt
+vulkan-intel
+vulkan-radeon
+vulkan-nouveau
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-nouveau

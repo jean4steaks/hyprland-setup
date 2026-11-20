@@ -1,0 +1,4 @@
+# Paquets AUR supplémentaires
+# (yay est installé automatiquement par le script)
+
+html2markdown
